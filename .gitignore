@@ -2,3 +2,5 @@ myenv/
 __pycache__/
 *.pyc
 .DS_Store
+faiss_index.bin
+chunked.pkl
